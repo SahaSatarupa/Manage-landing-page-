@@ -9,3 +9,4 @@
 * View the optimal layout for the interface depending on their device's screen size
 * See hover and focus states for all interactive elements on the page
 # Challenge Link --> https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5  
+# Live link --> https://manage-landing-page-two-mu.vercel.app/
